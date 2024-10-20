@@ -21,7 +21,7 @@ MarkupSafe==3.0.2
 matplotlib==3.9.2
 mdurl==0.1.2
 narwhals==1.9.4
-numpy @ file:///Users/runner/miniforge3/conda-bld/numpy_1718615068516/work/dist/numpy-2.0.0-cp310-cp310-macosx_10_13_x86_64.whl#sha256=a76097eb9af0b9fc4db05cd467b7c1a97662ab0cf531dbe2b09ca0fbc7b07ec4
+numpy==1.23.5
 openpyxl==3.1.5
 packaging==24.1
 pandas==2.2.3
